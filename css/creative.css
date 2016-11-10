@@ -25,9 +25,22 @@ a {
   transition: all 0.35s;
   color: #FFAF4C;
 }
+
 a:hover,
 a:focus {
   color: #222222;
+}
+
+a.dark {
+  -webkit-transition: all 0.35s;
+  -moz-transition: all 0.35s;
+  transition: all 0.35s;
+  color: #FFAF4C;
+}
+
+a.dark:hover,
+a.dark:focus {
+  color: #ffffff;
 }
 h1,
 h2,
