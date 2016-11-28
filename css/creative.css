@@ -69,7 +69,9 @@ p {
   border: 10px solid #000000;
   max-width: 60%;
 }
-
+.img-research{
+  max-width:100%;
+}
 .bg-primary {
   background-color: #FFAF4C;
 }
