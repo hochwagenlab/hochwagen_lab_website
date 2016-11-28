@@ -65,6 +65,10 @@ p {
   height: 250px;
   width: 250px;
 }
+.img-photopreview {
+  border: 10px solid #000000;
+  width: 70%;
+}
 
 .bg-primary {
   background-color: #FFAF4C;
