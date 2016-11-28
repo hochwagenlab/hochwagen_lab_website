@@ -55,11 +55,17 @@ p {
   line-height: 1.5;
   margin-bottom: 20px;
 }
-.img-circle {
+.img-circle-small {
   border-radius: 50%;
-  height: 200px;
-  width: 200px;
+  height: 180px;
+  width: 180px;
 }
+.img-circle-large {
+  border-radius: 50%;
+  height: 250px;
+  width: 250px;
+}
+
 .bg-primary {
   background-color: #FFAF4C;
 }
